@@ -1,7 +1,7 @@
 {
   "db": {
     "forceSync": true,
-    "database": "openeddi",
+    "database": "health-network-canvas-db",
     "username": "openeddi",
     "password": "openeddi"
   },
