@@ -4,8 +4,8 @@
   "description": "node app",
   "main": "server.js",
   "scripts": {
-    "start": "node app.js"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
   "browser": {
     "jquery": "./oe/bower_components/jquery/dist/jquery.js",
     "lodash": "./oe/bower_components/lodash/lodash.js",
