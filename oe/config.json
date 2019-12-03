@@ -7,10 +7,10 @@
   },
   "adminAccount": {
     "username": "admin",
-    "password": "changeThisPassword",
-    "email": "admin@changeThisEmail.com",
-    "firstName": "Admin",
-    "lastName": "McAdmin"
+    "password": "pAUCKELC",
+    "email": "contact@richard-mckinney.com",
+    "firstName": "Richard",
+    "lastName": "McKinney"
   },
   "build": {
     "build": true,
