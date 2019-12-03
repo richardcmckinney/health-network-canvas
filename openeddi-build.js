@@ -167,4 +167,3 @@ var buildAppFile = function (callback) {
 };
 
 module.exports = buildAppFile;
-
